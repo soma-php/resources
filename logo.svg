@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="259.77938"
+     inkscape:cy="672.42764"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1139"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2985"
+       style="font-size:14px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       transform="matrix(2.6770499,0,0,2.6770499,-169.17055,-651.47031)"><flowRegion
+         id="flowRegion2987"><rect
+           id="rect2989"
+           width="592.95953"
+           height="318.19806"
+           x="95.964493"
+           y="315.96097" /></flowRegion><flowPara
+         id="flowPara2991"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway">S   MA</flowPara></flowRoot>    <path
+       sodipodi:type="arc"
+       style="fill:#2c3e50;fill-opacity:1;stroke:none"
+       id="path2993"
+       sodipodi:cx="304.81354"
+       sodipodi:cy="311.41528"
+       sodipodi:rx="87.125656"
+       sodipodi:ry="87.125656"
+       d="m 391.93919,311.41528 a 87.125656,87.125656 0 1 1 -174.25131,0 87.125656,87.125656 0 1 1 174.25131,0 z"
+       transform="matrix(0.8057971,0,0,0.8057971,39.497699,67.548819)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3769"
+       sodipodi:cx="293.44931"
+       sodipodi:cy="278.96414"
+       sodipodi:rx="14.394673"
+       sodipodi:ry="14.394673"
+       d="m 307.84398,278.96414 a 14.394673,14.394673 0 1 1 -28.78934,0 14.394673,14.394673 0 1 1 28.78934,0 z"
+       transform="translate(-6.5659913,-4.6417654e-8)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3771"
+       width="31.352184"
+       height="7.7225385"
+       x="109.45403"
+       y="407.43991"
+       rx="3.2409244"
+       transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3771-1"
+       width="31.352184"
+       height="7.7225385"
+       x="355.07837"
+       y="120.09608"
+       rx="3.2409244"
+       transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3771-2"
+       width="31.352184"
+       height="7.7225385"
+       x="305.84073"
+       y="-289.4819"
+       rx="3.2409244"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3771-9"
+       width="31.352184"
+       height="7.7225385"
+       x="453.63492"
+       y="29.378311"
+       rx="3.2409244"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3771-9-9"
+       width="31.352184"
+       height="7.7225385"
+       x="47.563484"
+       y="-440.67224"
+       rx="3.2409244"
+       transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)" />
+  </g>
+</svg>
